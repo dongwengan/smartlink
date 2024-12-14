@@ -17,21 +17,21 @@ feature_row:
     excerpt: "我们专注于高可靠航天通信设备的研发"
     url: "/docs/configuration/"
     btn_class: "btn--primary"
-    btn_label: "Learn more"
+    btn_label: "了解更多"
   - image_path: /assets/images/smart_home.jpg
     alt: "fully responsive"
     title: "智能设备"
     excerpt: "我们专注于嵌入式智能产品"
     url: "/docs/layouts/"
     btn_class: "btn--primary"
-    btn_label: "Learn more"
+    btn_label: "了解更多"
   - image_path: /assets/images/smart_medical.jpg
     alt: "100% free"
     title: "开发服务"
     excerpt: "我们提供一站式的嵌入式开发服务"
     url: "/docs/license/"
     btn_class: "btn--primary"
-    btn_label: "Learn more"      
+    btn_label: "了解更多"      
 ---
 
 {% include feature_row %}
