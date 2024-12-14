@@ -6,29 +6,29 @@ header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/main_background.jpg
   actions:
-    - label: "Learn more about ST"
-      url: "https://www.st.com.cn/content/st_com/zh.html"
+    - label: "了解更多"
+      url: ""
 excerpt: >
-  Our mission is design more system solutions for customers using ST products.<br />
+  我们利用半导体赋能产业应用<br />
 feature_row:
   - image_path: /assets/images/smart_industrial.jpg
     alt: "customizable"
-    title: "Smart Industrial"
-    excerpt: "We are providing solutions for indutrial applicatons"
+    title: "航天通信设备"
+    excerpt: "我们专注于高可靠航天通信设备的研发"
     url: "/docs/configuration/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: /assets/images/smart_home.jpg
     alt: "fully responsive"
-    title: "Smart Home / Building"
-    excerpt: "We are providing solutions for Home / Building applicatons"
+    title: "智能设备"
+    excerpt: "我们专注于嵌入式智能产品"
     url: "/docs/layouts/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: /assets/images/smart_medical.jpg
     alt: "100% free"
-    title: "Smart Medical"
-    excerpt: "We are providing solutions for Medical applicatons"
+    title: "开发服务"
+    excerpt: "我们提供一站式的嵌入式开发服务"
     url: "/docs/license/"
     btn_class: "btn--primary"
     btn_label: "Learn more"      

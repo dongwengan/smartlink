@@ -10,10 +10,10 @@ remote_theme             : "mmistakes/minimal-mistakes@master"
 minimal_mistakes_skin    : "mint" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Automation Competence Center"
+locale                   : "zh-CN"
+title                    : "深圳智联电能科技有限公司"
 title_separator          : "-"
-subtitle                 : "Technical Zone"
+subtitle                 : # "Technical Zone"
 name                     : &name "Michael Rose" # &name is a YAML anchor which can be *referenced later
 description              : &description "A flexible Jekyll theme for your blog or site with a minimalist aesthetic."
 url                      : https://www.stacc.top # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
