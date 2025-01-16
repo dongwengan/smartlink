@@ -9,7 +9,7 @@ header:
     - label: "了解更多"
       url: ""
 excerpt: >
-  我们利用嵌入式技术赋能产业应用<br />
+  科技推动社会进步<br />
 feature_row:
   - image_path: /assets/images/space.jpg
     alt: "customizable"
