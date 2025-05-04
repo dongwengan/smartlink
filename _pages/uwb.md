@@ -1,6 +1,7 @@
 ---
-permalink: /about/
+permalink: /uwb/
 title: "国产化UWB无线通信解决方案"
+toc: false
 ---
 
 UWB技术简介
