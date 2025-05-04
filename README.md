@@ -1,7 +1,7 @@
 ## 一、克隆仓库到本地
 
    ```shell
-   git clone git@github.com:dwgan/www.stacc.top.git
+   git clone <Your repository link>
    ```
 
    or pull update to local repository.
