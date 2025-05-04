@@ -4,12 +4,12 @@ main:
     url: /about/
 
 
-# documentation links
-docs:
-  - title: "产品介绍"
-    children:
-      - title: "数据记录仪"
-        url: /posts/storage/
+# # documentation links
+# docs:
+#   - title: "产品介绍"
+#     children:
+#       - title: "数据记录仪"
+#         url: /posts/storage/
 
-      - title: "UWB无线通信"
-        url: /posts/uwb/
+#       - title: "UWB无线通信"
+#         url: /posts/uwb/
